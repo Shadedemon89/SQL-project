@@ -485,54 +485,11 @@ FULL JOIN
 CROSS JOIN
 SELF JOIN
 
-📂 Suggested Repository Structure
 
-data-technician-week-3/
-│
-├── README.md
-├── Week 3 workbook Rob Anderson.docx
-│
-├── sql/
-│   ├── database-creation.sql
-│   ├── basic-queries.sql
-│   ├── aggregate-queries.sql
-│   └── subqueries.sql
-│
-└── images/
-    ├── erd.png
-    ├── database-schema.png
-    ├── supabase-table.png
-    └── sql-query-results.png
-
-📸 Recommended Screenshots
-
-For a GitHub portfolio, useful screenshots from the project would include:
-
-The ERD created on page 3 of the workbook
-
-Supabase table structure
-
-Successful PostgreSQL queries
-
-Query results after fixing syntax errors
-
-Aggregate query results
-
-Subquery results
-
-Database schema / table relationships
-
-Example Markdown:
-
-![Database ERD](images/erd.png)
-
-![PostgreSQL Query](images/sql-query-results.png)
-
-![Supabase Database](images/supabase-table.png)
 
 🎯 What I Learned
 
-Week 3 developed my understanding of how databases are designed, connected, queried and maintained.
+Developed my understanding of how databases are designed, connected, queried and maintained.
 
 I gained practical experience with:
 
